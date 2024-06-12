@@ -1,0 +1,7 @@
+1..first download and install github desktop
+2..add your profile and login through your default browser
+3..go to the repository option and fetch all
+4..open cmd 
+5..git clone <link> of your repo 
+6..open file and click open local repo and select directory
+open vs code adn write code add message and push
