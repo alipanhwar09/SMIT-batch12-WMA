@@ -1,0 +1,7 @@
+css-----> cascading style sheet
+font size in pixels or %
+font style italic or bold
+font weight for bold bolder
+serif
+san serif used s
+monospace fonts mostly used
