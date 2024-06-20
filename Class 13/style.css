@@ -1,0 +1,36 @@
+*{
+    color: black;
+    /* text-align: center; */
+}
+#idSelector{
+    color: blue;
+}
+
+.list_item{
+    color: darkorange;
+}
+
+ul > li {
+    font-family: 'Courier New', Courier, monospace;
+}
+ul > li > span{
+    text-decoration: underline;
+    color: black;
+}
+
+.list_item > span{
+    font-size: 25px;
+    
+}
+
+/* body > ul > li > span {
+    color:aqua;
+} */
+
+li , span {
+    font-style: italic;
+}
+
+p span {
+    font-size: 30px;
+}
