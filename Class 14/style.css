@@ -1,0 +1,17 @@
+h1{
+    /* color: rgb(200, 155, 150); */
+    /* color: #668595; */
+    color: lightsalmon;
+    /* color: white; */
+    /* color:rgb(31,136,61); */
+    /* background-color: rgb(31,136,61); */
+    /* background-image: linear-gradient(red,yellow,blue); */
+    /* background-color: rgb(0, 200, 200 , 0.2) ; */
+    /* background-color: hsl(0,51%,60%); */
+    /* opacity: 0.2; */
+    font-family: serif;
+    font-weight: lighter;
+    font-stretch: extra-condensed;
+    font-style: oblique;
+
+}
