@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    text-shadow: 10px 10px 2.5px  rgb(252, 30, 14);
+}
+h1::first-letter{
+    color: blue;
+    font-size: 50px;
+}
+a:visited{
+    font-size: 50px;
+    color: black;
+}
+
+a:link{
+    color: aqua;
+}
+input {
+    padding: 6px 12px 6px 12px;
+    border: 1px solid #665544;
+    color: green;
+}
+    input.submit:hover {
+    background-color: rgba(0, 0, 255, 0.774);
+    border-radius: 50px;
+    transition: 2s;
+    
+}
+input.submit:active {
+    background-color: rgb(10, 10, 10);
+}
+    input.text {
+    color: #f00b0b;
+}
+    input.text:focus {
+    color: rgb(88, 121, 11);
+}
