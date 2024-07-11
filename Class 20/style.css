@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 50%;
+    background-color: black;
+    margin: 0% auto;
+    min-width: 1300px;
+    
+}
+.row{
+    width: 100%;
+    background-color: aqua;
+}
+.item{
+    width: 30%;
+    height: 50px;
+    background-color: red;
+    display:inline-block;
+    margin-right: 2.9%;
+}
